@@ -1,0 +1,9 @@
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+bin/
+
+# Otros proyectos del workspace (no pertenecen a este repo)
